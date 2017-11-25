@@ -1,3 +1,8 @@
+# author: Krzysztof Sopyła (krzysztofsopyla@gmail.com)
+# Twitter: ksopyla
+# Blog: http://ksopyla.com
+
+# If you want to use this material in your own trainning please let me know.
 import numpy as np
 
 a = np.array([1, 2, 3])  # Create a rank 1 array

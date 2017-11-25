@@ -1,3 +1,9 @@
+# author: Krzysztof Sopyła (krzysztofsopyla@gmail.com)
+# Twitter: ksopyla
+# Blog: http://ksopyla.com
+
+# If you want to use this material in your own trainning please let me know.
+
 import numpy as np
 import matplotlib.pyplot as plt
 
